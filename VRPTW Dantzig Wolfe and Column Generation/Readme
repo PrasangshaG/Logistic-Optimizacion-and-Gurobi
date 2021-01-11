@@ -1,1 +1,1 @@
-VRPTW using DW and Col gen with early branching
+Vehicle Routing Problem with Time Windows (VRPTW) using Dantzig Wolfe decomposition method and column generation for linear relaxation. Then early branching for solving the 0/1 problem
