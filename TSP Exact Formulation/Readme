@@ -1,1 +1,6 @@
-Gurobi
+TSP Formulations:
+Dantzig Fulkerson Johnson
+Miller Tucker Zemlin
+Multicommodity Flow
+Shortest Path with Constraints
+Quadratic
